@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 80bb64d18e334b185f3edda003bd9ec14dd73d77
+> يا ضياء الروح في صمت الليالي
+> أهواك أنت يا كل آمالي
+> طيفك في قلبي كحلم جميل
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
