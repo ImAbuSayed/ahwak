@@ -1,0 +1,210 @@
+Title: Ahwak
+Clean Hash: f1951d25c588657e29370fc3c164c698b00f15c08f5c2e2ded057941a9d70ab4
+Raw Hash: 0cde3f94bef95258ae513f1060f421021a4ad30350fc850010fd500815afee2e
+Date: 2026-05-09T14:25:43.644476
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+Subproject commit 80bb64d18e334b185f3edda003bd9ec14dd73d77
+[Song Name: Ahwak]
+[Song Style: Melodic Romantic / Love / Emotional / Natural Poetry (Not Complex Words)]
+[Music Style: Melodic psychedelic hard rock, mid-tempo 90 BPM, blues fusion, raw powerful gritty energy, soul-touching vocals, distorted gritty blues guitar riffs, expressive lead solos with bends and slides, blues scale phrasing, warm overdriven bass, punchy acoustic drum kit, straight backbeat no shuffle, punchy snare and deep kick, dynamic drum fills, driving bass groove, intense rhythmic energy, anthemic stadium vocals, raspy emotional male vocal, smooth powerful female vocal, call and response duet, rich harmonies, hook-driven soaring chorus, high-pitched power tenor, wide stereo guitars, clean ambient guitar layers, centered vocals, plate reverb, delay throws, cinematic synths, subtle Hammond organ, atmospheric pads, lush strings, cinematic build-ups, tension and release, analog warmth saturation, crisp modern rock production, modern alt-rock style, raw soulful energy, clear Western instrumentation]
+
+[Hook (Arabic)]
+[Male]
+يا ضياء الروح في صمت الليالي
+أهواك أنت يا كل آمالي
+[Female]
+طيفك في قلبي كحلم جميل
+ونبض الشوق في دمي يسيل
+
+[Hook (Hindi)]
+[Male]
+तू ही मेरी साँसों की रवानी
+तेरे बिना अधूरी है कहानी
+[Female]
+इन धड़कनों में बस तेरा नशा है
+ये दिल मेरा तेरी ओर झुका है
+
+[Hook (English)]
+[Male]
+You are the fire in my soul today
+Do not let this magic ever fade away
+[Female]
+Hold me so close and do not let me go
+We are the rhythm that the stars will know
+
+[Verse 1 (Bangla)]
+[Male]
+প্রথম দেখায় মন হারালো অজানায়
+তোমার হাসিতে যেন পৃথিবী থামায়
+[Female]
+চোখের ভাষায় কত কথা বলা হলো
+আমার এ হৃদয় শুধু তোমাকেই চাইলো
+
+[Pre-Chorus 1 (Hindi)]
+[Male]
+क्या ये असर है तेरी नज़रों का
+या कोई जादू है इन लमहों का
+[Female]
+बेचैन है दिल तेरे इंतज़ार में
+गुज़रेगी रातें अब तेरे ही प्यार में
+
+[Chorus (Bangla)]
+[Male]
+ভালোবাসি আমি, ও আমার জান
+তুমি যে আমার এই জীবনের গান
+[Female]
+তোমারই প্রেমে আমি পাগলপারা
+তুমিহীনা আমার যে দিশাহারা
+
+[Verse 2 (Arabic)]
+[Male]
+عيناك بحر تاهت فيه سفني
+وأنت الروح التي تسكن بدني
+[Female]
+في قربك أجد كل الأمان
+حبك أضاء لي كل المكان
+
+[Pre-Chorus 2 (Punjabi)]
+[Male]
+ਤੇਰੀ ਮੁਸਕਾਨ 'ਚ ਜਾਦੂ ਐ ਕਮਾਲ ਦਾ
+ਮੈਨੂੰ ਤੇ ਚਾਅ ਹੈ ਬਸ ਤੇਰੇ ਸਾਥ ਦਾ
+[Female]
+ਦਿਲ ਮੇਰਾ ਤੇਰੇ ਪਿੱਛੇ ਹੋਇਆ ਦੀਵਾਨਾ
+ਤੂੰ ਹੀ ਐ ਮੇਰੇ ਇਸ ਪਿਆਰ ਦਾ ਤਰਾਨਾ
+
+[Chorus (Arabic)]
+[Male]
+أهواك أهواك يا نبض الفؤاد
+معك أنسى كل هموم العباد
+[Female]
+أنت الحب الذي لا ينتهي
+أنت الأمل الذي أشتهي
+
+[Verse 3 (Hindi)]
+[Male]
+कैसे कहूँ मैं तेरे बिना क्या हूँ
+इक प्यासी ज़मीन और मैं एक दुआ हूँ
+[Female]
+तड़प ये कैसी दिल को सताए
+बिन तेरे एक पल रहा ना जाए
+
+[Pre-Chorus 3 (Arabic)]
+[Male]
+يا رب الكون احفظ لي هذا الغرام
+فروحي دائما تبحث عن السلام
+[Female]
+شعلة العشق في قلبي تزيد
+حبك في دمي يسري كالوريد
+
+[Chorus (Bangla)]
+[Male]
+ভালোবাসি আমি, ও আমার জান
+তুমি যে আমার এই জীবনের গান
+[Female]
+তোমারই প্রেমে আমি পাগলপারা
+তুমিহীনা আমার যে দিশাহারা
+
+[Verse 4 (Punjabi)]
+[Male]
+ਮੇਰੇ ਮਾਹੀਆ ਤੇਰਾ ਇਸ਼ਕ ਮਾਰਦਾ
+ਦਿਲ ਮੇਰਾ ਤੇਰੀ ਹੀ ਉਡੀਕ ਤਾਰਦਾ
+[Female]
+ਤੇਰੇ ਬਿਨਾਂ ਨਾ ਕੋਈ ਹੋਰ ਭਾਉਂਦਾ
+ਤੇਰਾ ਹੀ ਖਿਆਲ ਮੈਨੂੰ ਰੋਜ਼ ਸਤਾਉਂਦਾ
+
+[Bridge (English)]
+[Male]
+Hold on to the feeling, let the passion grow
+In every shadow of desire, I will never let you go
+My heart is echoing the truth we both invite
+Say my name softly... Sayed tonight... (Sayed... Sayed...)
+[Female]
+Our destiny is written in the stars so bright
+Come into my arms and let the flames ignite
+
+[Chorus (Hindi)]
+[Male]
+तू ही मेरी साँसों की रवानी
+तेरे बिना अधूरी है कहानी
+[Female]
+इन धड़कनों में बस तेरा नशा है
+ये दिल मेरा तेरी ओर झुका है
+
+[Outro (Arabic)]
+[Male]
+يا ضياء الروح في صمت الليالي
+أهواك أنت يا كل آمالي
+[Female]
+قلبي ينادي في سكون الغرام
+أهواك دوما ومسك الختام
+--------------------
+[CLEAN LYRICS]
+Subproject commit 80bb64d18e334b185f3edda003bd9ec14dd73d77
+يا ضياء الروح في صمت الليالي
+أهواك أنت يا كل آمالي
+طيفك في قلبي كحلم جميل
+ونبض الشوق في دمي يسيل
+तू ही मेरी साँसों की रवानी
+तेरे बिना अधूरी है कहानी
+इन धड़कनों में बस तेरा नशा है
+ये दिल मेरा तेरी ओर झुका है
+You are the fire in my soul today
+Do not let this magic ever fade away
+Hold me so close and do not let me go
+We are the rhythm that the stars will know
+প্রথম দেখায় মন হারালো অজানায়
+তোমার হাসিতে যেন পৃথিবী থামায়
+চোখের ভাষায় কত কথা বলা হলো
+আমার এ হৃদয় শুধু তোমাকেই চাইলো
+क्या ये असर है तेरी नज़रों का
+या कोई जादू है इन लमहों का
+बेचैन है दिल तेरे इंतज़ार में
+गुज़रेगी रातें अब तेरे ही प्यार में
+ভালোবাসি আমি, ও আমার জান
+তুমি যে আমার এই জীবনের গান
+তোমারই প্রেমে আমি পাগলপারা
+তুমিহীনা আমার যে দিশাহারা
+عيناك بحر تاهت فيه سفني
+وأنت الروح التي تسكن بدني
+في قربك أجد كل الأمان
+حبك أضاء لي كل المكان
+ਤੇਰੀ ਮੁਸਕਾਨ 'ਚ ਜਾਦੂ ਐ ਕਮਾਲ ਦਾ
+ਮੈਨੂੰ ਤੇ ਚਾਅ ਹੈ ਬਸ ਤੇਰੇ ਸਾਥ ਦਾ
+ਦਿਲ ਮੇਰਾ ਤੇਰੇ ਪਿੱਛੇ ਹੋਇਆ ਦੀਵਾਨਾ
+ਤੂੰ ਹੀ ਐ ਮੇਰੇ ਇਸ ਪਿਆਰ ਦਾ ਤਰਾਨਾ
+أهواك أهواك يا نبض الفؤاد
+معك أنسى كل هموم العباد
+أنت الحب الذي لا ينتهي
+أنت الأمل الذي أشتهي
+कैसे कहूँ मैं तेरे बिना क्या हूँ
+इक प्यासी ज़मीन और मैं एक दुआ हूँ
+तड़प ये कैसी दिल को सताए
+बिन तेरे एक पल रहा ना जाए
+يا رب الكون احفظ لي هذا الغرام
+فروحي دائما تبحث عن السلام
+شعلة العشق في قلبي تزيد
+حبك في دمي يسري كالوريد
+ভালোবাসি আমি, ও আমার জান
+তুমি যে আমার এই জীবনের গান
+তোমারই প্রেমে আমি পাগলপারা
+তুমিহীনা আমার যে দিশাহারা
+ਮੇਰੇ ਮਾਹੀਆ ਤੇਰਾ ਇਸ਼ਕ ਮਾਰਦਾ
+ਦਿਲ ਮੇਰਾ ਤੇਰੀ ਹੀ ਉਡੀਕ ਤਾਰਦਾ
+ਤੇਰੇ ਬਿਨਾਂ ਨਾ ਕੋਈ ਹੋਰ ਭਾਉਂਦਾ
+ਤੇਰਾ ਹੀ ਖਿਆਲ ਮੈਨੂੰ ਰੋਜ਼ ਸਤਾਉਂਦਾ
+Hold on to the feeling, let the passion grow
+In every shadow of desire, I will never let you go
+My heart is echoing the truth we both invite
+Say my name softly... Sayed tonight..... Sayed... Sayed.....
+Our destiny is written in the stars so bright
+Come into my arms and let the flames ignite
+तू ही मेरी साँसों की रवानी
+तेरे बिना अधूरी है कहानी
+इन धड़कनों में बस तेरा नशा है
+ये दिल मेरा तेरी ओर झुका है
+يا ضياء الروح في صمت الليالي
+أهواك أنت يا كل آمالي
+قلبي ينادي في سكون الغرام
+أهواك دوما ومسك الختام

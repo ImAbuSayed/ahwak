@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ahwak
+
+This log tracks the cryptographic history and versioning for the song **Ahwak** (ahwak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:25:43.644476 | `v1` | `f1951d25c588657e29370fc3c164c698b00f15c08f5c2e2ded057941a9d70ab4` | `0cde3f94bef95258ae513f1060f421021a4ad30350fc850010fd500815afee2e` | `2026-05-09_ahwak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
